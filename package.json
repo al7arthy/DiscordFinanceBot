@@ -1,0 +1,22 @@
+{
+  "name": "erisbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "date-fns": "^3.6.0",
+    "eris": "^0.17.2",
+    "mongoose": "^8.4.1",
+    "mongoose-bignumber": "^2.0.0",
+    "mongoose-long": "^0.8.0",
+    "numeral": "^2.0.6",
+    "svg2img": "^1.0.0-beta.2"
+  }
+}

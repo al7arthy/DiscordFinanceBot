@@ -1,0 +1,21 @@
+<svg width="700" height="250" viewBox="0 0 700 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M128 158L61.5 198L576 198.5V148L512 83.5L448.5 47H384L320.5 83L255.5 121H192L128 158Z" fill="--color1--" fill-opacity="0.5"/>
+<path d="M61.5 198L128 158L192 121H255.5L320.5 83L384 46H448.5L512 83.5L576.5 148" stroke="--color1--" stroke-width="5" stroke-linecap="round"/>
+<rect x="59" y="59" width="5" height="142" rx="2.5" fill="--color2--"/>
+<rect x="59" y="196" width="519" height="5" rx="2.5" fill="--color2--"/>
+<rect x="55" y="156" width="13" height="5" rx="2.5" fill="--color2--"/>
+<rect x="55" y="196" width="13" height="5" rx="2.5" fill="--color2--"/>
+<rect x="55" y="118" width="13" height="5" rx="2.5" fill="--color2--"/>
+<rect x="55" y="80" width="13" height="5" rx="2.5" fill="--color2--"/>
+<rect x="125" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 125 205)" fill="--color2--"/>
+<rect x="59" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 59 205)" fill="--color2--"/>
+<rect x="189" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 189 205)" fill="--color2--"/>
+<rect x="253" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 253 205)" fill="--color2--"/>
+<rect x="317" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 317 205)" fill="--color2--"/>
+<rect x="381" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 381 205)" fill="--color2--"/>
+<rect x="445" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 445 205)" fill="--color2--"/>
+<rect x="509" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 509 205)" fill="--color2--"/>
+<rect x="573" y="205" width="13" height="5" rx="2.5" transform="rotate(-90 573 205)" fill="--color2--"/>
+<path d="M575.239 136.677C576.802 134.976 579.619 135.604 580.311 137.807L584.981 152.68C585.673 154.883 583.72 157.009 581.466 156.507L566.251 153.115C563.997 152.612 563.132 149.858 564.694 148.157L575.239 136.677Z" fill="--color1--"/>
+<rect x="599" y="123" width="47" height="47" rx="23.5" fill="--color1--"/>
+</svg>
