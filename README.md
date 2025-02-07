@@ -6,6 +6,7 @@ This is a Discord bot made using Node.js and the Eris library. It provides vario
 
 - Multiple financial games with simple commands.
 - Extensive admin customization, including image colors and reset buttons.
+- Built with Eris instead of discord.js, making the bot faster and more efficient.
 
 ## Commands
 
@@ -32,3 +33,7 @@ Here are some of the main commands available in the bot:
 - `!unban <user>` - Unban a user and restore their access to bot commands.
 - `!config` - View the current configuration of the bot.
 - and a lot more ...
+
+
+## Disclaimer
+This is a base template that you can use to expand the bot (which means it is not finished), and it is free for anyone to use
