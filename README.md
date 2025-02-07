@@ -1,7 +1,3 @@
-Here's the updated version with a new Arabic section below:
-
----
-
 # Discord Financial Games Bot
 
 This is a Discord bot made using Node.js and the Eris library. It provides various financial games and administrative customization options for server administrators.
