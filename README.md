@@ -17,7 +17,7 @@ A comprehensive Discord bot built with Node.js and the Eris library, featuring a
 ## 🎮 Game Commands
 
 ### Financial Games
-- **قروشي** (`دراهمي`, `فلوسي`, `مالي`, `زلطي`, `قروش`, `دراهم`, `فلوس`, `مال`, `زلط`, `رصيد`, `رصيدي`) - Check your balance with a beautiful profile card
+- **قروشي** (`دراهمي`, `فلوسي`, `مالي`, `رصيد`, `رصيدي`) - Check your balance with a beautiful profile card
 - **راتب** (`راتبي`, `الراتب`) - Claim daily salary with random job assignments
 - **نرد** (`النرد`, `dice`, `dise`) - Dice gambling game with betting options
 - **حظ** (`حظي`) - Luck-based reward game
